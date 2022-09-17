@@ -1,0 +1,15 @@
+Weather Condition,Wins in last 3 matches,Humidity,Win toss,Won match?
+Rainy,3 wins,High,F,No
+Rainy,3 wins,High,T,No
+OverCast,3 wins,High,F,Yes
+Sunny,2 wins,High,F,Yes
+Sunny,1 win,Normal,F,Yes
+Sunny,1 win,Normal,T,No
+OverCast,1 win,Normal,T,Yes
+Rainy,2 wins,High,F,No
+Rainy,1 win,Normal,F,Yes
+Sunny,2 wins,Normal,F,Yes
+Rainy,2 wins,Normal,T,Yes
+OverCast,2 wins,High,T,Yes
+OverCast,3 wins,Normal,F,Yes
+Sunny,2 wins,High,T,No
